@@ -15,3 +15,12 @@ used for ray tracing and particle transport in
 as the visualization component of the [NEAMS
 Workbench](https://www.ornl.gov/project/neams-workbench), as it has no
 nuclear-specific components [0D999 classification](https://www.bis.doc.gov/index.php/documents/regulations-docs/2331-category-0-nuclear-materials-facilities-equipment-and-miscellaneous-items-1/file). The copyright on the code is still held by UT-Battelle (see LICENSE).
+
+Contributors to ORANGE's ancestral code are:
+- Kursat B Bekar
+- Gregory Davidson
+- Tom Evans
+- Cole Gentry
+- Robert A Lefebvre
+- Scott Mosher
+- Seth R Johnson
