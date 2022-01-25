@@ -1,4 +1,13 @@
-# ORANGE (Celeritas-formatted derivative)
+This repository is **not functional as a standalone code**. It serves as a
+starting point for implementations in
+[Celeritas](https://github.com/celeritas-project/celeritas) but generally is
+not suitable for copying directly into the Celeritas codebase due to
+infrastructure changes, low-level data refactoring, higher-level functional
+refactoring, and stylistic inconsistencies.
+As such it is **archived** and not open to issues or pull requests. Please submit
+new contributions as pull requests to Celeritas.
+
+# ORANGE
 
 ORANGE (Oak Ridge Adaptable Nested Geometry Engine) is the new geometry engine
 used for ray tracing and particle transport in
@@ -6,10 +15,3 @@ used for ray tracing and particle transport in
 as the visualization component of the [NEAMS
 Workbench](https://www.ornl.gov/project/neams-workbench), as it has no
 nuclear-specific components [0D999 classification](https://www.bis.doc.gov/index.php/documents/regulations-docs/2331-category-0-nuclear-materials-facilities-equipment-and-miscellaneous-items-1/file). The copyright on the code is still held by UT-Battelle (see LICENSE).
-
-This repository is **not functional as a standalone code**. It serves as a
-starting point for implementations in
-[Celeritas](https://github.com/celeritas-project/celeritas) but generally is
-not suitable for copying directly into the Celeritas codebase due to
-infrastructure changes, low-level data refactoring, higher-level functional
-refactoring, and stylistic inconsistencies.
